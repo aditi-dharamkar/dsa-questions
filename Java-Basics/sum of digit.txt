@@ -1,4 +1,4 @@
-//greeks for greeks
+//platform:greeks for greeks
 //problem:sum of digit
 //topic : array
 //difficulty:easy
